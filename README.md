@@ -1,5 +1,6 @@
 ## Sobre
-Sou bibliotecário em transição de carreira para a área de tecnológia. Atualmente curso a graduação em Tecnológia de Sistemas para Internet no SENAC.
+Olá! Meu nome é João Vitor, sou formado em biblioteconomia pela UFPE e atualmente curso a graduação em Tecnológia de Sistemas para Internet no SENAC.
+Recentemente venho focando os meus estudos em Javascript e C#, me familiarizando com conceitos de lógica de programação. 
 
 ### Conecte-se comigo
 
